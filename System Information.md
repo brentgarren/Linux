@@ -1,5 +1,6 @@
 
 <pre>
+<br>
 Command	  | Description
 whoami	  | Displays current username.
 id	      | Returns users identity
